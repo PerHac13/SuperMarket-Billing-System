@@ -1,0 +1,5 @@
+ 1 Mango 40 56 0
+ 56 rtrt 566 10 1
+ 3 Cabbages 20 45 0
+ 5 Kiwi 230 80 15
+ 6 Frooti 10 34 12
